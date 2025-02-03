@@ -1,0 +1,38 @@
+feb 03, 2025 4:16:24 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:16:59 P. M. Noticias.logs.LogsControl info
+INFO: Buscando noticias por etiquetas: [tag1]
+feb 03, 2025 4:19:18 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:19:34 P. M. Noticias.logs.LogsControl info
+INFO: Publicando noticia: Titulo1
+feb 03, 2025 4:21:16 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:21:35 P. M. Noticias.logs.LogsControl info
+INFO: Publicando noticia: Test
+feb 03, 2025 4:23:56 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:24:09 P. M. Noticias.logs.LogsControl info
+INFO: Publicando noticia: Hola
+feb 03, 2025 4:24:13 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:25:03 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:25:14 P. M. Noticias.logs.LogsControl info
+INFO: Publicando noticia: Titulo
+feb 03, 2025 4:25:18 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:27:11 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:28:14 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:55:15 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:57:35 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
+feb 03, 2025 4:57:57 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 4:58:00 P. M. Noticias.logs.LogsControl info
+INFO: Listando todas las noticias
+feb 03, 2025 4:58:03 P. M. Noticias.logs.LogsControl warning
+WARNING: El usuario email@example.com no puede escribir comentarios.

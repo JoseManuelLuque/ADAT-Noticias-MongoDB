@@ -17,6 +17,9 @@ dependencies {
 
     // https://mvnrepository.com/artifact/io.github.cdimascio/dotenv-kotlin
     implementation("io.github.cdimascio:dotenv-kotlin:6.4.2")
+
+    implementation ("org.slf4j:slf4j-api:2.0.0")
+    implementation ("org.slf4j:slf4j-simple:2.0.0")
 }
 
 tasks.test {
