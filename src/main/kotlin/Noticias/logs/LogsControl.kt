@@ -13,7 +13,7 @@ object LogsControl {
     init {
         try {
             // Configurar el FileHandler para escribir en un archivo
-            val fileHandler = FileHandler("app.log", true)
+            val fileHandler = FileHandler("Pruebas.log", true)
             fileHandler.formatter = SimpleFormatter()
             logger.addHandler(fileHandler)
         } catch (e: IOException) {

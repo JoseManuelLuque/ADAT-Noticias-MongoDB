@@ -1,0 +1,28 @@
+feb 03, 2025 5:29:44 P. M. Noticias.logs.LogsControl info
+INFO: Registrando usuario: josema@gmail.com
+feb 03, 2025 5:29:54 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 5:30:13 P. M. Noticias.logs.LogsControl info
+INFO: Publicando noticia: Prueba Log
+feb 03, 2025 5:30:23 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 5:30:23 P. M. Noticias.logs.LogsControl info
+INFO: Listando noticias por usuario: josema@gmail.com
+feb 03, 2025 5:30:36 P. M. Noticias.logs.LogsControl info
+INFO: Listando todos los usuarios
+feb 03, 2025 5:30:39 P. M. Noticias.logs.LogsControl info
+INFO: Listando todas las noticias
+feb 03, 2025 5:30:45 P. M. Noticias.logs.LogsControl info
+INFO: Escribiendo comentario por usuario: josema@gmail.com
+feb 03, 2025 5:31:02 P. M. Noticias.logs.LogsControl info
+INFO: Listando todas las noticias
+feb 03, 2025 5:31:02 P. M. Noticias.logs.LogsControl info
+INFO: Listando comentarios por noticia: 67a0ef15dadb064edb2b79c9
+feb 03, 2025 5:31:14 P. M. Noticias.logs.LogsControl info
+INFO: Listando todas las noticias
+feb 03, 2025 5:31:14 P. M. Noticias.logs.LogsControl info
+INFO: Listando comentarios por noticia: 67a0ef15dadb064edb2b79c9
+feb 03, 2025 5:31:42 P. M. Noticias.logs.LogsControl info
+INFO: Buscando noticias por etiquetas: [test]
+feb 03, 2025 5:31:46 P. M. Noticias.logs.LogsControl info
+INFO: Listando las últimas 10 noticias
